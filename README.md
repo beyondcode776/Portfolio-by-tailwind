@@ -29,4 +29,4 @@ This project was created during the **Devtown Web Development Bootcamp**, where 
 
  Connect with Me
 
-Feel free to reach out through the contact form or connect via [LinkedIn](https://linkedin.com/in/KishlayKumar) or [GitHub](https://github.com/beyondcode776).
+Feel free to reach out through the contact form or connect via [LinkedIn](www.linkedin.com/in/kishlay-kumar-19318a210) or [GitHub](https://github.com/beyondcode776).
